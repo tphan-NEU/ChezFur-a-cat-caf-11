@@ -15,5 +15,7 @@ body{
   @media screen and (min-width: 750px) {
   body {
     background-color:maroon;
-    color:moccasin;} 
+    color:moccasin;
+    font-family: 'Times New Roman', Times, serif; 
+  } 
 }
